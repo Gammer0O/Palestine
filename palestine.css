@@ -1,0 +1,62 @@
+#first{
+    padding-top:50px;
+    background:url("palestine.jpg");
+    background-size: cover;
+    height: 800px;
+    text-align: center;
+    font-size:70px;
+    margin: 0px;
+    padding-bottom: 50px;
+}
+#title{
+    margin-bottom: 60px;
+    padding-left: 10px;
+    font-size: 30px;
+    padding-top: 3px;
+}
+#all-titles li{
+    margin-bottom: 25px; 
+}
+#all-titles a{
+    text-decoration: underline;
+    color: black;
+}
+#all-titles a:hover{
+    text-decoration-line: underline;
+    color: red;
+}
+.col-5{
+    float: left;
+    width: 50%;
+}
+.col-7{
+    border: 10px black;
+}
+#main-info{
+    padding-top: 3px;
+    line-height: 50px; 
+}
+#w-is-p {
+    clear: both; /* Add this line to clear the floats */
+    text-align: center;
+}
+.what-is-pal-title{
+    font-size: 40px;
+}
+#w-is-p p{
+    font-size: 30px;
+}
+.p-e-r{
+    text-align: center;
+}
+.pal-early-r-title{
+    font-size: 40px;
+}
+.p-e-r p{
+    font-size: 30px;
+}
+.p-e{
+    font-size: 30px;
+}
+
+
